@@ -1,2 +1,2 @@
 # datasciencecoursera
-## Made to prove profeciency in creating a repository.
+Made to prove proficiency in creating a repository.
